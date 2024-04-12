@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Новая папка\ekzXleb\bin\Debug\ekzXleb.exe.config
+C:\Users\student\Documents\Новая папка\ekzXleb\bin\Debug\ekzXleb.exe
+C:\Users\student\Documents\Новая папка\ekzXleb\bin\Debug\ekzXleb.pdb
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\App.g.cs
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb_MarkupCompile.cache
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb_MarkupCompile.lref
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\MainWindow.baml
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.g.resources
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.Properties.Resources.resources
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.csproj.GenerateResource.cache
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.exe
+C:\Users\student\Documents\Новая папка\ekzXleb\obj\Debug\ekzXleb.pdb
